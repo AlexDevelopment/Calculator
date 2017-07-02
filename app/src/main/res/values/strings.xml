@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="path_font_robo">fonts/robo.ttf</string>
+    <string name="enter_the_number">Введите  число</string>
+    <string name="you_can_not_put_plus_after_the_opening_parenthesis">Нельзя ставить  оператор + после открывающейся  скобки</string>
+    <string name="you_can_not_put_operator_multiply_after_the_opening_parenthesis">Нельзя ставить  оператор * после открывающейся  скобки</string>
+    <string name="you_can_not_put_operator_divide_after_the_opening_parenthesis">Нельзя ставить  оператор / после открывающейся  скобки</string>
+    <string name="enter_the_expression_after_the_parentheses">Введите выражение  после  (</string>
+    <string name="unfinished_expression">Не  законченное  выражение</string>
+    <string name="you_can_not_divide_by_zero">На ноль делить нельзя</string>
+</resources>
